@@ -20,8 +20,10 @@ const puppeteer = require('puppeteer');
   // Aguarda a navegação até a página de cursos
   await page.waitForNavigation();
 
+  const initialPage = 'https://comunidade.onebitcode.com/c/curso/sections/360097/lessons/1336821'
+
   // Navega para a página do curso e encontra a aula que deseja marcar como concluída
-  await page.goto('https://comunidade.onebitcode.com/c/curso/sections/360097/lessons/1336821');
+  await page.goto(initialPage);
 
   let continuar = true;
 
