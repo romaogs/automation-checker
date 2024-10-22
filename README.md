@@ -9,6 +9,7 @@ Execute o comando abaixo para instalar todas as dependências necessárias:
 
 ```bash
 npm install
+```
 
 2. Configurar variáveis de ambiente
 
@@ -21,7 +22,9 @@ Renomeie o arquivo para .env.
 
 Para iniciar a automação, execute o seguinte comando no terminal:
 
+```bash
 npm run start
+```
 
 Como usar 🛠️
 
