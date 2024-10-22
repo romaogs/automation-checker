@@ -1,13 +1,42 @@
-Instruções
+# Automação de Conclusão de Aulas 🎯
 
-Rode npm install para instalar as dependências.
+Este projeto tem o objetivo de automatizar a conclusão de aulas em uma plataforma de cursos, oferecendo opções para escolha de trilhas e módulos via terminal.
 
-Substitua as variáveis no arquivo .env.example e o renomeie para .env
+## Instruções 🚀
 
-Rodar o comando npm run start
+### 1. Instalar dependências
+Execute o comando abaixo para instalar todas as dependências necessárias:
 
-Como usar:
-No terminal de comando serão dadas as opções das trilhas e posteriormente a escolha da trilha será solicitado o módulo.
-Após a escolha do módulo a automação vai começar.
-Veja a magia acontecer...
+```bash
+npm install
+
+2. Configurar variáveis de ambiente
+
+Substitua as variáveis no arquivo .env.example de acordo com as suas necessidades.
+
+Renomeie o arquivo para .env.
+
+
+3. Iniciar a aplicação
+
+Para iniciar a automação, execute o seguinte comando no terminal:
+
+npm run start
+
+Como usar 🛠️
+
+1. Ao rodar o comando acima, o terminal exibirá as opções das trilhas disponíveis.
+
+
+2. Após escolher a trilha, será solicitado que você escolha o módulo.
+
+
+3. Após a escolha do módulo, a automação será iniciada e o processo de conclusão das aulas será realizado automaticamente.
+
+
+
+⚡ Veja a magia acontecer! ⚡
+
+
+
 
