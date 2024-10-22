@@ -26,7 +26,7 @@ Para iniciar a automação, execute o seguinte comando no terminal:
 npm run start
 ```
 
-Como usar 🛠️
+## Como usar 🛠️
 
 1. Ao rodar o comando acima, o terminal exibirá as opções das trilhas disponíveis.
 
